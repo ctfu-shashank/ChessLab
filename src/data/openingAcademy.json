@@ -1,0 +1,262 @@
+[
+  {
+    "id": "italian-game",
+    "eco": "C50",
+    "name": "Italian Game",
+    "variation": "Giuoco Piano",
+    "moves": ["e4", "e5", "Nf3", "Nc6", "Bc4", "Bc5", "c3", "Nf6", "d3"],
+    "idea": "Both sides develop naturally and fight for the center, with White's bishop eyeing f7 from c4.",
+    "plans": [
+      "White prepares d4 to build a big center, supported by c3.",
+      "Black often plays d6 and O-O, then looks for ...d5 breaks later.",
+      "Piece activity and quick castling matter more than material grabs this early."
+    ]
+  },
+  {
+    "id": "ruy-lopez",
+    "eco": "C60",
+    "name": "Ruy Lopez",
+    "variation": "Spanish Opening, Closed",
+    "moves": ["e4", "e5", "Nf3", "Nc6", "Bb5", "a6", "Ba4", "Nf6", "O-O", "Be7"],
+    "idea": "White pins pressure on the knight defending e5 while preparing a slow, strategic squeeze.",
+    "plans": [
+      "White usually continues Re1, c3 and d4 to claim the center.",
+      "Black often replies with b5 and d6, keeping the position solid and flexible.",
+      "Games can stay tense for many moves — patience and piece placement matter more than speed."
+    ]
+  },
+  {
+    "id": "sicilian-najdorf",
+    "eco": "B90",
+    "name": "Sicilian Defense",
+    "variation": "Najdorf Variation",
+    "moves": ["e4", "c5", "Nf3", "d6", "d4", "cxd4", "Nxd4", "Nf6", "Nc3", "a6"],
+    "idea": "Black accepts an asymmetrical pawn structure in exchange for active, unbalanced play and chances on both wings.",
+    "plans": [
+      "Black's a6 prepares ...b5, gaining queenside space and hitting White's pieces.",
+      "White often attacks on the kingside with f3, Be3 and a queenside-castled setup (the 'English Attack').",
+      "Sharp, theory-heavy lines reward players comfortable with imbalanced, double-edged positions."
+    ]
+  },
+  {
+    "id": "french-defense",
+    "eco": "C11",
+    "name": "French Defense",
+    "variation": "Classical Variation",
+    "moves": ["e4", "e6", "d4", "d5", "Nc3", "Nf6", "Bg5", "Be7"],
+    "idea": "Black accepts a slightly cramped position in return for a solid pawn chain and a clear plan to strike at White's center later.",
+    "plans": [
+      "Black's typical break is ...c5, challenging d4 and opening lines for the pieces.",
+      "White often gains space with e5 and attacks on the kingside.",
+      "Black's light-squared bishop is a long-term problem piece worth planning around."
+    ]
+  },
+  {
+    "id": "caro-kann",
+    "eco": "B18",
+    "name": "Caro-Kann Defense",
+    "variation": "Classical Variation",
+    "moves": ["e4", "c6", "d4", "d5", "Nc3", "dxe4", "Nxe4", "Bf5"],
+    "idea": "Black trades in the center early and, unlike the French, gets the light-squared bishop out before closing the position.",
+    "plans": [
+      "Black follows up with e6, Nf6 and a solid, easy-to-play structure.",
+      "White typically develops with Bc4 or Bd3 and aims for a small but lasting space edge.",
+      "The position is very solid for Black — great for players who like fewer weaknesses."
+    ]
+  },
+  {
+    "id": "qgd",
+    "eco": "D37",
+    "name": "Queen's Gambit Declined",
+    "variation": "Classical Variation",
+    "moves": ["d4", "d5", "c4", "e6", "Nc3", "Nf6", "Bg5", "Be7"],
+    "idea": "Black keeps the center intact rather than grabbing the c4 pawn, aiming for a solid, well-tested structure.",
+    "plans": [
+      "White pressures d5 and often expands with Rc1 and Bd3.",
+      "Black looks to free the position with ...c5 or ...dxc4 followed by ...c5 at the right moment.",
+      "A classical battleground since the 19th century — rich in strategic ideas."
+    ]
+  },
+  {
+    "id": "qga",
+    "eco": "D20",
+    "name": "Queen's Gambit Accepted",
+    "variation": "Main Line",
+    "moves": ["d4", "d5", "c4", "dxc4", "Nf3", "Nf6", "e3", "e6"],
+    "idea": "Black grabs the c4 pawn temporarily, planning to give it back for comfortable development.",
+    "plans": [
+      "White regains the pawn with Bxc4 and aims for a strong center with e4 later.",
+      "Black often plays c5 and b5 to fight for queenside space and free the position.",
+      "Development speed matters more here than holding on to the extra pawn."
+    ]
+  },
+  {
+    "id": "slav-defense",
+    "eco": "D10",
+    "name": "Slav Defense",
+    "variation": "Main Line",
+    "moves": ["d4", "d5", "c4", "c6", "Nf3", "Nf6", "Nc3", "dxc4"],
+    "idea": "Black defends d5 with the c-pawn instead of e6, keeping the light-squared bishop free to develop outside the pawn chain.",
+    "plans": [
+      "Black often plays Bf5 or Bg4 early, something the QGD structure makes harder.",
+      "White tries to prove a central and development advantage before Black consolidates.",
+      "A very solid, well-respected defense at every level of chess."
+    ]
+  },
+  {
+    "id": "kings-indian",
+    "eco": "E60",
+    "name": "King's Indian Defense",
+    "variation": "Main Line",
+    "moves": ["d4", "Nf6", "c4", "g6", "Nc3", "Bg7", "e4", "d6"],
+    "idea": "Black allows White a big pawn center on purpose, planning to attack it later with pieces and pawn breaks.",
+    "plans": [
+      "Black typically castles kingside, then plays ...e5 or ...c5 to challenge the center.",
+      "A famous plan is the kingside pawn storm with ...f5-f4 once queens castle on opposite sides.",
+      "Sharp and double-edged — both sides usually attack on opposite wings."
+    ]
+  },
+  {
+    "id": "nimzo-indian",
+    "eco": "E20",
+    "name": "Nimzo-Indian Defense",
+    "variation": "Main Line",
+    "moves": ["d4", "Nf6", "c4", "e6", "Nc3", "Bb4"],
+    "idea": "Black pins the knight on c3 immediately, fighting for the center with pieces rather than pawns.",
+    "plans": [
+      "Black often follows with O-O and c5, pressuring d4 and doubling White's c-pawns if Bxc3 is played.",
+      "White chooses between Qc2, e3 or a3 setups, each leading to distinct strategic battles.",
+      "Considered one of the most reliable defenses to 1.d4 at every level."
+    ]
+  },
+  {
+    "id": "grunfeld",
+    "eco": "D80",
+    "name": "Grünfeld Defense",
+    "variation": "Main Line",
+    "moves": ["d4", "Nf6", "c4", "g6", "Nc3", "d5"],
+    "idea": "Black lets White build a pawn center with the plan of undermining it immediately with pieces.",
+    "plans": [
+      "After cxd5 Nxd5, Black targets the c3 and d4 pawns with ...Bg7 and ...c5.",
+      "White often gets a large center but must be careful it doesn't become a target.",
+      "A hypermodern classic — pawns first, then pressure, rather than direct occupation of the center."
+    ]
+  },
+  {
+    "id": "english-opening",
+    "eco": "A25",
+    "name": "English Opening",
+    "variation": "Reversed Sicilian",
+    "moves": ["c4", "e5", "Nc3", "Nf6", "Nf3", "Nc6"],
+    "idea": "White plays a Sicilian Defense with an extra tempo, aiming for a flexible, strategically rich middlegame.",
+    "plans": [
+      "White can transpose into many structures — Sicilian-like, King's Indian-like or symmetric setups.",
+      "Central pawn breaks (d4 for White, ...d5 for Black) are typically well-timed rather than immediate.",
+      "A flexible first move that avoids heavy early theory while staying fully sound."
+    ]
+  },
+  {
+    "id": "scandinavian",
+    "eco": "B01",
+    "name": "Scandinavian Defense",
+    "variation": "Main Line",
+    "moves": ["e4", "d5", "exd5", "Qd5", "Nc3", "Qa5"],
+    "idea": "Black challenges the center immediately, accepting an early queen excursion in exchange for simple, direct play.",
+    "plans": [
+      "White gains development tempo by harassing the black queen with Nc3 and d4.",
+      "Black aims to finish development quickly with ...Nf6, ...c6 and ...Bf5 or ...Bg4.",
+      "A practical, low-theory way to meet 1.e4 that still gives Black active piece play."
+    ]
+  },
+  {
+    "id": "pirc-defense",
+    "eco": "B07",
+    "name": "Pirc Defense",
+    "variation": "Main Line",
+    "moves": ["e4", "d6", "d4", "Nf6", "Nc3", "g6"],
+    "idea": "Black delays central contact, fianchettoing the bishop and preparing to strike at White's center from the flank.",
+    "plans": [
+      "Black typically follows with Bg7, O-O and c5 or e5 breaks.",
+      "White often builds a broad center with f4 or Be3/Qd2, aiming for a kingside attack.",
+      "Similar in spirit to the King's Indian — flexible, hypermodern and combative."
+    ]
+  },
+  {
+    "id": "alekhine-defense",
+    "eco": "B02",
+    "name": "Alekhine's Defense",
+    "variation": "Main Line",
+    "moves": ["e4", "Nf6", "e5", "Nd5", "d4", "d6"],
+    "idea": "Black provokes White's pawns forward, planning to attack the overextended center later with pieces and pawn breaks.",
+    "plans": [
+      "White gains space quickly but must guard against the center becoming weak.",
+      "Black chips away with ...dxe5, ...c5 or ...Nb6, targeting overextended pawns.",
+      "A provocative, hypermodern try that rewards precise piece play over material grabs."
+    ]
+  },
+  {
+    "id": "london-system",
+    "eco": "D02",
+    "name": "London System",
+    "variation": "Main Line",
+    "moves": ["d4", "d5", "Nf3", "Nf6", "Bf4"],
+    "idea": "White sets up a simple, solid structure (pawns on d4/e3, bishop developed before e3) that works against almost any Black setup.",
+    "plans": [
+      "White follows up with e3, Bd3 (or Be2), Nbd2, c3 and often h3 for a safe, flexible structure.",
+      "Because the setup is so consistent, White can focus on plans rather than memorizing sharp theory.",
+      "A popular, low-maintenance opening choice at club level and beyond."
+    ]
+  },
+  {
+    "id": "vienna-game",
+    "eco": "C25",
+    "name": "Vienna Game",
+    "variation": "Main Line",
+    "moves": ["e4", "e5", "Nc3", "Nf6", "g3"],
+    "idea": "White develops the knight before the bishop, keeping options open for an aggressive f4 push or a quiet fianchetto setup.",
+    "plans": [
+      "White can choose between the sharp Vienna Gambit (f4) or the calmer fianchetto with g3 and Bg2.",
+      "Black usually meets it with solid development — ...Bc5, ...d6 or ...Nc6.",
+      "A flexible way to reach both quiet and sharp middlegames from the same first moves."
+    ]
+  },
+  {
+    "id": "scotch-game",
+    "eco": "C45",
+    "name": "Scotch Game",
+    "variation": "Main Line",
+    "moves": ["e4", "e5", "Nf3", "Nc6", "d4", "exd4", "Nxd4", "Nf6"],
+    "idea": "White opens the center immediately, trading a pawn for quick piece activity and open lines.",
+    "plans": [
+      "White's knight on d4 is centralized but can become a target, so timing Nc3 or Nb5 matters.",
+      "Black develops naturally with ...Bc5 or ...Bb4, fighting for the initiative.",
+      "Leads to open, tactical positions rather than the slow maneuvering of the Ruy Lopez."
+    ]
+  },
+  {
+    "id": "petrov-defense",
+    "eco": "C42",
+    "name": "Petrov's Defense",
+    "variation": "Russian Game, Main Line",
+    "moves": ["e4", "e5", "Nf3", "Nf6", "Nxe5", "d6", "Nf3", "Nxe4"],
+    "idea": "Black mirrors White's attack on e5 instead of defending e5 directly, aiming for quick equality and a symmetrical, safe game.",
+    "plans": [
+      "Both sides typically finish development quickly, often heading for a balanced middlegame.",
+      "White sometimes avoids the main line entirely with quieter tries like the Three Knights setup.",
+      "A reliable choice for players who want to neutralize 1.e4 with minimal risk."
+    ]
+  },
+  {
+    "id": "catalan-opening",
+    "eco": "E00",
+    "name": "Catalan Opening",
+    "variation": "Main Line",
+    "moves": ["d4", "Nf6", "c4", "e6", "g3", "d5", "Bg2", "Be7"],
+    "idea": "White combines a Queen's Gambit pawn structure with a fianchettoed bishop on g2, pressuring the long diagonal and d5/c6.",
+    "plans": [
+      "White often regains a pawn on c4 naturally thanks to pressure from the g2-bishop.",
+      "Black looks to complete development safely and challenge the long diagonal with ...c6 or ...dxc4.",
+      "A strategically rich opening favored by many elite players for its long-term pressure."
+    ]
+  }
+]
